@@ -1,2 +1,5 @@
 # hello-world
-A repository designed to teach the owner how repositories work.
+
+Hi there!
+
+I'm hyruleEnigma, aka Kaden Buchan, and I'm just learning Javascript and how to use github so that I might help with Pokemon Showdown!
